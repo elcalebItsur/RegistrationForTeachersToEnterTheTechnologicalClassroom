@@ -1,0 +1,47 @@
+.App {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  background: ;
+}
+
+.Banner {
+  background-color: #5FBC18;
+  padding: 2.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 18px;
+}
+
+#titulo {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 1rem;
+}
+
+.contenido {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 400px; /* Ajusta el ancho máximo del formulario según tus necesidades */
+  margin: 0 auto; /* Centra el contenido horizontalmente */
+}
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%; /* Ajusta el ancho del formulario */
+}
+
+#clavedocente {
+  margin-bottom: 1rem;
+  width: 100%; /* Ajusta el ancho del TextField */
+}
+
+.Button {
+  margin-top: 1rem;
+  width: 100%; /* Ajusta el ancho del Button */
+}
+
+p{
+  font-size: medium;
+}
