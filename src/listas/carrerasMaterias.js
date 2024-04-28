@@ -1,8 +1,8 @@
 export const MateriasCarrera = {
-  "1": [
+  1: [
     "Tópicos Avanzados de Programación",
     "Ecuaciones Diferenciales",
-    "Lenguajes y Autómatas I", 
+    "Lenguajes y Autómatas I",
     "Taller de Sistemas Operativos",
     "Principios Elec. y Aplic. Dig.",
     "Fundamento De Base de Datos",
@@ -32,9 +32,9 @@ export const MateriasCarrera = {
     "Prog. Web III",
     "Investigación de Operaciones",
     "Prog. Móvil II",
-    "Form. y eval. de proy. de inv."
+    "Form. y eval. de proy. de inv.",
   ],
-  "2": [
+  2: [
     "Cálculo Diferencial",
     "Taller de Ética",
     "Fund. de Investigación",
@@ -76,12 +76,65 @@ export const MateriasCarrera = {
     "Diseño Asistido",
     "Elementos Automotrices",
     "Seminario de Titulación",
-    "Automatización Industrial"
+    "Automatización Industrial",
   ],
-  "3": [
-    "PENDIENTE"
+  7: [
+    "Microbiologia Alimentos",
+    "Fundamentos de Turismo",
+    "Intr a la Gastronomía",
+    "Fund de Investigación",
+    "Matemáticas para Gastro",
+    "Software de Apl. Ejecutivo",
+    "Act Complementaria I",
+    "Actividad Complementaria III",
+    "Higiene en el Manejo de Alimentos y Bebidas",
+    "Cultura y Patrimonio Gastronómico",
+    "Bases Culinarias",
+    "Física en Gastronomía",
+    "Fund de Gestión Empresarial",
+    "Taller de Ética",
+    "Act Complementaria II",
+    "Act Complementaria IV",
+    "Química y Cons de los Alimentos",
+    "Costos y Manejo de Almacenes",
+    "Cocina Mexicana",
+    "Probabilidad y Estadística",
+    "Gestión del Capital Humano",
+    "Protocolo de Seguridad",
+    "Tecnología de Frutas, Hortalizas y Confitería",
+    "Coctelería",
+    "Panadería",
+    "Economía Empresarial",
+    "Finanzas de las Org",
+    "Desarrollo Sustentable",
+    "Gestión Estratégica",
+    "Enología y Vitivinicultura",
+    "Int a la Repostería",
+    "Investigación de Operaciones",
+    "Calidad Aplicada a la Gestion E",
+    "Marco Legal de las Org",
+    "Taller de Investigación I",
+    "Nutrición y Dietética",
+    "Cocina Internacional I",
+    "Mercadotecnia",
+    "Banquetes",
+    "El Emprendedor y la Innovación",
+    "Taller de Investigación II",
+    "Cocina Prehispánica",
+    "Cocina Internacional II",
+    "Costos en Gastronomía",
+    "Estancia Técnica Nacional",
+    "Dir Establecimiento de Alim y Beb",
+    "Escultura en Hielo y Mukimono",
+    "Form y Evaluación de Proyectos",
+    "Cocina Mexicana de Innovación",
+    "Cocina Experimental",
+    "Calidad en el Servicio",
+    "Estancia Técnica Internacional",
+    "Panadería Mexicana",
+    "Actividad Complementaria V",
   ],
-  "4": [
+  4: [
     "Precálculo",
     "Comp. Lectora",
     "Mecánica Clásica",
@@ -124,9 +177,9 @@ export const MateriasCarrera = {
     "Intro Telecom.",
     "Electr. Potencia",
     "Señ. Analóg. en Dis. Prog.",
-    "Integración Sist. Autom."
+    "Integración Sist. Autom.",
   ],
-  "5": [
+  5: [
     "Cálculo Diferencial",
     "Taller de Ética",
     "Fund. de Investigación",
@@ -168,9 +221,9 @@ export const MateriasCarrera = {
     "Diseño Asistido",
     "Elementos Automotrices",
     "Seminario de Titulación",
-    "Automatización Industrial"
+    "Automatización Industrial",
   ],
-  "6": [
+  6: [
     "Quím. Inorgánica",
     "Precálculo",
     "Dibujo Asist. Comp.",
@@ -198,9 +251,22 @@ export const MateriasCarrera = {
     "Intro Telecom.",
     "Electr. Potencia",
     "Señ. Analóg. en Dis. Prog.",
-    "Integración Sist. Autom."
+    "Integración Sist. Autom.",
   ],
-  "7": [
-    "PENDIENTE"
+  3: [
+    "Calculo Diferencial",
+    "Topicos Selectos de Fisico",
+    "Taller de Ética",
+    "Introducción a la Ingeniería de Semiconductores",
+    "Programación Estructurada",
+    "Cálculo Integral",
+    "Probabilidad y Estadística",
+    "Física Moderna",
+    "Mediciones Eléctricas",
+    "Programación Visual",
+    "Desarrolo Sustentable",
+    "Cálculo Vectorial",
+    "Sistemas MEMs y NEMs",
+    "Electrónica de Potencia",
   ],
 };

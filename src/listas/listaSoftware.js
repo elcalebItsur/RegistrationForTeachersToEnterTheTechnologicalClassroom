@@ -29,12 +29,7 @@ export const listaSoftware = {
     "Microsoft Office",
     "Internet",
   ],
-  AT3: [
-    "COMPAQ",
-    "Microsoft Office",
-    "Internet",
-    "minitab 17",
-  ],
+  AT3: ["COMPAQ", "Microsoft Office", "Internet", "minitab 17"],
   AT2: [
     "Ansys",
     "AutoCAD",
